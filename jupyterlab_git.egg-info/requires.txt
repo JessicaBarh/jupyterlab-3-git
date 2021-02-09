@@ -1,0 +1,16 @@
+jupyter_server
+nbdime~=3.0.0b1
+packaging
+pexpect
+
+[dev]
+black
+coverage
+jupyter_packaging~=0.7.9
+jupyterlab~=3.0
+pre-commit
+pytest
+pytest-asyncio
+pytest-cov
+pytest-tornasync
+requests
