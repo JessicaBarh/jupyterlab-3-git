@@ -1,0 +1,9 @@
+export declare const fileStyle: string;
+export declare const selectedFileStyle: string;
+export declare const fileChangedLabelStyle: string;
+export declare const selectedFileChangedLabelStyle: string;
+export declare const fileChangedLabelBrandStyle: string;
+export declare const fileChangedLabelInfoStyle: string;
+export declare const fileGitButtonStyle: string;
+export declare const fileButtonStyle: string;
+export declare const gitMarkBoxStyle: string;
